@@ -1,0 +1,7 @@
+[Event "Mannheim"]
+[White "Alexander Alekhine"]
+[Black "Hans Fahrni"]
+1. g4 e5 2. f3 {Mejor era 2. h3} 2... Qh4# 0-1
+
+[Event "World championship match"]
+1. e4 e5 1/2-1/2
